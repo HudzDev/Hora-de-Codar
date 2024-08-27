@@ -10,7 +10,7 @@ programa {
     escreva("Valor do Altura: ")
     leia(altura)
 
-    escreva("A área do retângulo é: (base * altura)")
+    escreva("A área do retângulo é: "(base * altura)".")
 
   }
 }
