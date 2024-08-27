@@ -10,7 +10,7 @@ programa {
     escreva("Valor do Altura: ")
     leia(altura)
 
-    escreva("A ·rea do ret‚ngulo È: " + (base * altura))
+    escreva("A √°rea do ret√¢ngulo √©: (base * altura)")
 
   }
 }
